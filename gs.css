@@ -1,0 +1,21 @@
+.speech{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    size: 20px;
+
+}
+.direction{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    size: 25px;
+}
+.direction:hover{
+    background-color: yellow;
+    color: red;
+}
+.BAUER{
+color: orangered;
+}
+.LANE{
+color: blue;
+}
